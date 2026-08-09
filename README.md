@@ -1,10 +1,10 @@
 ## Hi 👋, I'm Matheus Ribeiro
-🎓 Software Engineering Student | Aspiring Java Developer
+🚀 Software Engineering Student | Aspiring Java Developer
 🇧🇷 Carapicuíba, SP - Brazil
 
-Estudante de Engenharia de Software, conciliando trabalho e estudos focados em Java e desenvolvimento backend.
-Construindo minha base em Programação Orientada a Objetos, arquitetura em camadas e boas práticas de código através de projetos práticos.
-Em busca da minha primeira oportunidade como estagiário ou desenvolvedor Java.
+Software Engineering student, currently balancing work and studies focused on Java and backend development.
+Building a solid foundation in Object-Oriented Programming, layered architecture, and clean code through hands-on projects.
+Looking for my first opportunity as an intern or junior developer.
 
 ### 🌐 Where to find me
 <p align="left">
@@ -20,11 +20,11 @@ Em busca da minha primeira oportunidade como estagiário ou desenvolvedor Java.
 </p>
 
 ### 🧠 What I'm learning
-- ☕ Java & Programação Orientada a Objetos
-- 🗄️ SQL e modelagem de banco de dados
-- 🏗️ Arquitetura em camadas (Model, Repository, Service)
-- 📚 Estruturas de dados e lógica de programação
-- 🎯 Clean code e boas práticas de desenvolvimento
+- ☕ Java & Object-Oriented Programming
+- 🗄️ SQL and database modeling
+- 🏗️ Layered architecture (Model, Repository, Service)
+- 📚 Data structures and programming logic
+- 🎯 Clean code and development best practices
 
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,13 +33,8 @@ Em busca da minha primeira oportunidade como estagiário ou desenvolvedor Java.
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 GitHub Stats
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruscello7&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/ruscello7)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruscello7&layout=compact&theme=tokyonight)](https://github.com/ruscello7)
-
 ### 🚀 Philosophy
-"A jornada de mil commits começa com o primeiro `git init`."
+"Consistency beats talent when talent doesn't stay consistent."
 
-⭐ Se curtir meus projetos, deixa uma estrela
-🤝 Aberto a oportunidades de estágio e primeiro emprego em desenvolvimento
+⭐ If you like my projects, leave a star
+🤝 Open to internship and junior developer opportunities
