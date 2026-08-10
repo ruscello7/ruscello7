@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Matheus Ribeiro
 🚀 Software Engineering Student | Aspiring Java Developer
-🇧🇷 Carapicuíba, SP - Brazil
+🇧🇷 SP - Brazil
 
 Software Engineering student, currently balancing work and studies focused on Java and backend development.
 Building a solid foundation in Object-Oriented Programming, layered architecture, and clean code through hands-on projects.
