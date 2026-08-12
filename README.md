@@ -25,7 +25,7 @@ Looking for my first opportunity as an intern or junior developer.
 ### 🧠 What I'm learning
 
 - ☕ Java & Object-Oriented Programming
-- 🌱 Spring Boot *(next step)*
+- 🌱 Spring Boot
 - 🗄️ SQL and database modeling
 - 🏗️ Layered architecture (Model, Repository, Service)
 - 📚 Data structures and programming logic
