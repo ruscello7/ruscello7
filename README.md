@@ -3,10 +3,12 @@
 🚀 Software Engineering Student | Aspiring Java Developer
 🇧🇷 SP - Brazil
 
-Software Engineering student, currently balancing work and studies focused on Java and backend development.
+🇺🇸 Software Engineering student, currently balancing work and studies focused on Java and backend development.
 Building a solid foundation in Object-Oriented Programming, layered architecture, and clean code through hands-on projects.
 Started with Python to learn programming fundamentals — now fully focused on Java & backend development.
 Looking for my first opportunity as an intern or junior developer.
+
+🇧🇷 Estudante de Engenharia de Software, atualmente conciliando trabalho e estudos com foco em Java e desenvolvimento de back-end. Estou construindo uma base sólida em programação orientada a objetos, arquitetura em camadas e código limpo por meio de projetos práticos. Comecei com Python para aprender os fundamentos da programação — agora estou totalmente focado em Java e desenvolvimento de back-end. Estou em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior.
 
 ### 🌐 Where to find me
 
