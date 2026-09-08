@@ -48,7 +48,7 @@ Looking for my first opportunity as an intern or junior developer.
 
 ### 🚀 Philosophy
 
-"Consistency beats talent when talent doesn't stay consistent."
+"Discipline built in silence speaks the loudest in results."
 
 ⭐ If you like my projects, leave a star
 🤝 Open to internship and junior developer opportunities
